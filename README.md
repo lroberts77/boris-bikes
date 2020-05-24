@@ -8,6 +8,7 @@
 * [Usage](#Usage)
 
 First challenge at Makers Academy, complete a project in Ruby that handles the functionality of Boris's Bikes
+
 <!-- 
 ## Specification
 
